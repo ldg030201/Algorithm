@@ -1,0 +1,1 @@
+interface Main{static void main(String[]a){var s=new java.util.Scanner(System.in);int t=0,c=5;while(c-->0)t+=s.nextInt();System.out.print(t);}}
